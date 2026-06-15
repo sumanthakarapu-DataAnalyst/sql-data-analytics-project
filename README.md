@@ -53,7 +53,7 @@ This project analyzes an e-commerce dataset using SQL.
 
 ### Quarter-wise revenue for 2023
 
-![Quarter-wise revenue for 2023](Results/Quarter-wise revenue for 2023.jpg)
+![Quarter-wise-revenue-for-2023](Results/Quarter-wise-revenue-for-2023.jpg)
 
 
 ## Project Structure
