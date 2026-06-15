@@ -1,20 +1,22 @@
-# SQL Data Analytics Project
+-- # SQL Data Analytics Project
 
 ## Project Overview
 This project analyzes an e-commerce dataset using SQL.
 
 ## Business Problems Solved
 
-1. Customer Segmentation Analysis
-2. Revenue by Product Category
-3. Top Customers by Spend
-4. Yearly Revenue Trends
-5. City-wise Revenue Analysis
-6. Average Order Value by Payment Mode
-7. Duplicate Customer Detection
-8. Customer Churn Analysis
-9. Profit Margin Classification
-10. Cohort Analysis
+1. Customers by Segment
+2. Orders by Status
+3. Revenue by Category
+4. Top Customers by Spend
+5. Yearly Revenue Analysis
+6. Top Cities by Revenue
+7. Average Order Value by Payment Mode
+8. Duplicate Customer Detection
+9. Customer Churn Analysis
+10. Profit Margin Classification
+11. Customers Who Never Returned Products
+12. Quarter-wise Revenue Analysis
 
 ## Tools Used
 
