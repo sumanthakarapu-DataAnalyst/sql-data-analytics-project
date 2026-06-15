@@ -18,6 +18,16 @@ This project analyzes an e-commerce dataset using SQL.
 11. Customers Who Never Returned Products
 12. Quarter-wise Revenue Analysis
 
+
+## SQL Concepts Used
+
+- GROUP BY
+- ORDER BY
+- JOINS
+- Aggregate Functions
+- CASE Statements
+- Subqueries
+
 ## Tools Used
 
 - MySQL
