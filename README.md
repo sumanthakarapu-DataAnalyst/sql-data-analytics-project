@@ -1,4 +1,4 @@
--- # SQL Data Analytics Project
+# SQL Data Analytics Project
 
 ## Project Overview
 This project analyzes an e-commerce dataset using SQL.
