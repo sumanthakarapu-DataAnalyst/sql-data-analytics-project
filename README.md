@@ -41,11 +41,26 @@ This project analyzes an e-commerce dataset using SQL.
 - Net Banking users had the highest AOV.
 - 222 customers churned between 2023 and 2024.
 
+## Query Results
+
+### Revenue Analysis
+
+![Revenue Analysis](Results/Revenue_Analysis.jpg)
+
+### Top Customers
+
+![Top Customers](Results/Top_Customers.jpg)
+
+### Quarter-wise revenue for 2023
+
+![Quarter-wise revenue for 2023](Results/Quarter-wise revenue for 2023.jpg)
+
+
 ## Project Structure
 
 - Dataset
-- SQL Queries
 - Results
+- SQL Queries
 
 ## Author
 
