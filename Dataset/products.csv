@@ -1,0 +1,251 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price,stock_qty
+101,SG Yoga Series 5,Sports,Yoga,SG,4899,7650,365
+102,Bata Formal Pro 5,Footwear,Formal,Bata,933,1970,173
+103,LOreal Haircare Mini 1,Beauty,Haircare,LOreal,655,1060,476
+104,Fossil Bags Air 9,Accessories,Bags,Fossil,4658,9690,109
+105,Allen Solly Men's Wear Mini 9,Apparel,Men's Wear,Allen Solly,1084,1880,442
+106,Voltas Personal Care Neo 2,Appliances,Personal Care,Voltas,14619,24750,83
+107,Boat Television Air 6,Electronics,Television,Boat,43503,70760,481
+108,Adidas Men's Wear Plus 9,Apparel,Men's Wear,Adidas,746,1420,469
+109,Oxford Fiction Elite 2,Books,Fiction,Oxford,156,310,18
+110,LOreal Makeup Neo 3,Beauty,Makeup,LOreal,2329,2890,315
+111,HarperCollins Academic Air 1,Books,Academic,HarperCollins,577,1160,75
+112,H&M Women's Wear Plus 4,Apparel,Women's Wear,H&M,481,1000,363
+113,Nike Sports Advanced 7,Footwear,Sports,Nike,547,1110,416
+114,Oxford Fiction Lite 5,Books,Fiction,Oxford,120,210,15
+115,Bata Sports Classic 4,Footwear,Sports,Bata,1258,2130,56
+116,Allen Solly Kids Wear Neo 6,Apparel,Kids Wear,Allen Solly,741,1140,383
+117,SG Outdoor Ultra 2,Sports,Outdoor,SG,7470,9890,280
+118,Pigeon Storage Mini 9,Kitchen,Storage,Pigeon,237,320,483
+119,Pigeon Appliances Mini 8,Kitchen,Appliances,Pigeon,2041,4140,437
+120,Titan Belts Classic 9,Accessories,Belts,Titan,1807,3650,170
+121,Nike Sandals Essential 3,Footwear,Sandals,Nike,2598,4370,157
+122,Penguin Fiction Edge 8,Books,Fiction,Penguin,175,310,317
+123,Bosch Cooling Compact 7,Appliances,Cooling,Bosch,11201,14140,106
+124,Reebok Sandals Neo 3,Footwear,Sandals,Reebok,641,890,354
+125,Woodland Sandals Essential 2,Footwear,Sandals,Woodland,1009,1660,365
+126,Nike Fitness Mini 2,Sports,Fitness,Nike,2415,4560,112
+127,Nivia Yoga Premium 7,Sports,Yoga,Nivia,4929,8780,375
+128,Nike Team Sports X 6,Sports,Team Sports,Nike,4058,5870,217
+129,Nivea Makeup Elite 2,Beauty,Makeup,Nivea,362,560,128
+130,Levi's Men's Wear Max 2,Apparel,Men's Wear,Levi's,1239,2690,101
+131,Urban Ladder Office Air 2,Furniture,Office,Urban Ladder,27327,38250,276
+132,Nivea Fragrance Air 8,Beauty,Fragrance,Nivea,993,1790,185
+133,Penguin Fiction Series 2,Books,Fiction,Penguin,386,670,202
+134,Lakme Fragrance Max 3,Beauty,Fragrance,Lakme,1596,2010,165
+135,Zara Winter Wear Plus 5,Apparel,Winter Wear,Zara,2380,3690,66
+136,Nike Yoga Compact 9,Sports,Yoga,Nike,4476,6990,447
+137,Zara Men's Wear Smart 8,Apparel,Men's Wear,Zara,1875,3120,356
+138,Fossil Jewellery Max 1,Accessories,Jewellery,Fossil,4501,8980,197
+139,Puma Sunglasses Edge 7,Accessories,Sunglasses,Puma,1017,1730,192
+140,IKEA Office Premium 4,Furniture,Office,IKEA,7185,12500,53
+141,Nike Formal Edge 3,Footwear,Formal,Nike,546,940,245
+142,Pepperfry Storage Pro 8,Furniture,Storage,Pepperfry,25169,29810,203
+143,Yonex Yoga Lite 8,Sports,Yoga,Yonex,1058,1470,182
+144,Nivea Makeup Air 6,Beauty,Makeup,Nivea,1804,3400,335
+145,Puma Casual Smart 1,Footwear,Casual,Puma,1997,2940,421
+146,Cello Cookware Lite 6,Kitchen,Cookware,Cello,1258,1860,281
+147,Nivea Fragrance Neo 2,Beauty,Fragrance,Nivea,1330,2330,421
+148,Voltas Cooling Compact 6,Appliances,Cooling,Voltas,6231,10200,329
+149,Bloomsbury Comics Mini 1,Books,Comics,Bloomsbury,656,1000,105
+150,Cosco Yoga Elite 5,Sports,Yoga,Cosco,7466,11260,324
+151,Godrej Interio Living Room Classic 6,Furniture,Living Room,Godrej Interio,12922,23660,392
+152,Havells Cooling Edge 2,Appliances,Cooling,Havells,22926,29080,146
+153,Philips Kitchen Appln. Premium 7,Appliances,Kitchen Appln.,Philips,6054,11870,24
+154,Milton Cutlery Advanced 9,Kitchen,Cutlery,Milton,3682,5950,473
+155,Sony Television Smart 3,Electronics,Television,Sony,4243,5540,152
+156,Penguin Non-Fiction Advanced 1,Books,Non-Fiction,Penguin,178,220,170
+157,Nivia Team Sports Series 6,Sports,Team Sports,Nivia,6563,8160,213
+158,Levi's Women's Wear Essential 2,Apparel,Women's Wear,Levi's,2188,2800,496
+159,Oxford Academic Ultra 4,Books,Academic,Oxford,729,960,170
+160,Wildcraft Sunglasses X 4,Accessories,Sunglasses,Wildcraft,7548,14050,64
+161,H&M Women's Wear Elite 7,Apparel,Women's Wear,H&M,1077,1570,261
+162,Penguin Academic Edge 9,Books,Academic,Penguin,521,720,152
+163,Zara Kids Wear Neo 5,Apparel,Kids Wear,Zara,418,500,320
+164,Samsung Tablet Premium 5,Electronics,Tablet,Samsung,29311,51090,500
+165,Fastrack Bags Premium 8,Accessories,Bags,Fastrack,4892,6010,211
+166,Dyson Personal Care Premium 5,Appliances,Personal Care,Dyson,8585,10650,478
+167,Mamaearth Makeup Series 1,Beauty,Makeup,Mamaearth,516,1070,409
+168,Mamaearth Fragrance Series 6,Beauty,Fragrance,Mamaearth,2042,2550,429
+169,Reebok Casual Smart 9,Footwear,Casual,Reebok,791,1280,383
+170,Oxford Academic Pro 1,Books,Academic,Oxford,534,1020,237
+171,Zara Men's Wear Classic 5,Apparel,Men's Wear,Zara,889,1840,90
+172,Borosil Storage Series 6,Kitchen,Storage,Borosil,2294,2870,78
+173,Voltas Kitchen Appln. Edge 5,Appliances,Kitchen Appln.,Voltas,6244,10140,103
+174,Godrej Interio Storage Premium 1,Furniture,Storage,Godrej Interio,38881,47460,341
+175,Nivia Outdoor Elite 4,Sports,Outdoor,Nivia,2657,3360,35
+176,Godrej Interio Storage Smart 3,Furniture,Storage,Godrej Interio,3201,5360,494
+177,Nivia Fitness Essential 7,Sports,Fitness,Nivia,7679,9350,433
+178,Nivea Skincare Classic 4,Beauty,Skincare,Nivea,2574,3320,146
+179,Havells Cooling Plus 7,Appliances,Cooling,Havells,26739,38750,431
+180,Havells Kitchen Appln. Mini 7,Appliances,Kitchen Appln.,Havells,16600,35970,144
+181,Tupperware Appliances Neo 8,Kitchen,Appliances,Tupperware,504,790,456
+182,Wildcraft Belts Classic 7,Accessories,Belts,Wildcraft,7973,10710,141
+183,Bata Sports Max 1,Footwear,Sports,Bata,1741,3200,475
+184,Wildcraft Sunglasses Max 1,Accessories,Sunglasses,Wildcraft,2812,4030,164
+185,Urban Ladder Office Compact 1,Furniture,Office,Urban Ladder,16313,29440,267
+186,Maybelline Makeup Plus 2,Beauty,Makeup,Maybelline,801,1210,82
+187,Philips Cleaning Max 3,Appliances,Cleaning,Philips,19490,23220,153
+188,Fossil Belts Smart 5,Accessories,Belts,Fossil,4932,7900,94
+189,Ray-Ban Belts Plus 9,Accessories,Belts,Ray-Ban,9155,12840,418
+190,Nivea Skincare Plus 1,Beauty,Skincare,Nivea,427,920,143
+191,Zara Winter Wear Lite 8,Apparel,Winter Wear,Zara,350,590,373
+192,Oxford Comics Advanced 2,Books,Comics,Oxford,1028,1290,73
+193,Casio Bags Air 3,Accessories,Bags,Casio,9427,12570,431
+194,Crompton Kitchen Appln. Pro 9,Appliances,Kitchen Appln.,Crompton,18205,34860,481
+195,Skechers Casual Advanced 2,Footwear,Casual,Skechers,3310,7190,358
+196,Puma Sandals Lite 6,Footwear,Sandals,Puma,921,1910,435
+197,Mamaearth Fragrance Smart 1,Beauty,Fragrance,Mamaearth,584,1250,328
+198,Mamaearth Makeup Plus 4,Beauty,Makeup,Mamaearth,2343,3040,154
+199,Wildcraft Bags Ultra 9,Accessories,Bags,Wildcraft,8611,14290,214
+200,Bosch Kitchen Appln. X 2,Appliances,Kitchen Appln.,Bosch,1275,2390,208
+201,Urban Ladder Office Lite 5,Furniture,Office,Urban Ladder,15605,25050,422
+202,Philips Kitchen Appln. Lite 6,Appliances,Kitchen Appln.,Philips,15371,23800,463
+203,Pepperfry Storage Series 2,Furniture,Storage,Pepperfry,29481,38070,324
+204,Van Heusen Winter Wear Series 2,Apparel,Winter Wear,Van Heusen,346,590,247
+205,Milton Storage Essential 9,Kitchen,Storage,Milton,497,780,50
+206,Nivea Makeup Plus 5,Beauty,Makeup,Nivea,1958,2970,161
+207,SG Fitness Ultra 1,Sports,Fitness,SG,4128,6310,221
+208,Reebok Sandals Smart 6,Footwear,Sandals,Reebok,1270,2630,267
+209,Xiaomi Mobile Mini 3,Electronics,Mobile,Xiaomi,35730,76330,223
+210,Crompton Personal Care Elite 8,Appliances,Personal Care,Crompton,15925,28640,480
+211,Adidas Women's Wear Ultra 5,Apparel,Women's Wear,Adidas,2172,4410,283
+212,OnePlus Mobile Lite 1,Electronics,Mobile,OnePlus,11497,17940,364
+213,Pepperfry Storage Neo 7,Furniture,Storage,Pepperfry,19611,40430,79
+214,Apple Television Pro 4,Electronics,Television,Apple,41484,77730,342
+215,Zara Women's Wear Compact 4,Apparel,Women's Wear,Zara,606,800,85
+216,Lakme Fragrance Lite 3,Beauty,Fragrance,Lakme,2363,3170,237
+217,Lakme Fragrance Elite 4,Beauty,Fragrance,Lakme,556,820,436
+218,Pepperfry Living Room Pro 2,Furniture,Living Room,Pepperfry,23447,31890,222
+219,Lakme Makeup Advanced 7,Beauty,Makeup,Lakme,1222,1780,323
+220,Mamaearth Haircare Max 9,Beauty,Haircare,Mamaearth,143,210,293
+221,Reebok Formal Series 8,Footwear,Formal,Reebok,1146,1640,340
+222,Wildcraft Belts Series 1,Accessories,Belts,Wildcraft,1977,2670,250
+223,Casio Belts Essential 4,Accessories,Belts,Casio,6472,8940,481
+224,Cosco Yoga Air 7,Sports,Yoga,Cosco,9031,11530,354
+225,Ray-Ban Belts Mini 4,Accessories,Belts,Ray-Ban,3336,4450,351
+226,Nivea Haircare Classic 3,Beauty,Haircare,Nivea,1069,2180,222
+227,Nivea Makeup Classic 9,Beauty,Makeup,Nivea,142,310,461
+228,Voltas Personal Care Mini 3,Appliances,Personal Care,Voltas,30308,37520,26
+229,Woodland Formal Lite 4,Footwear,Formal,Woodland,901,1670,142
+230,Ray-Ban Jewellery Max 9,Accessories,Jewellery,Ray-Ban,2159,4230,363
+231,Penguin Fiction Elite 8,Books,Fiction,Penguin,1091,1450,64
+232,SG Fitness Max 9,Sports,Fitness,SG,1074,1530,455
+233,Tupperware Cutlery Air 8,Kitchen,Cutlery,Tupperware,3013,4640,455
+234,Reebok Casual Neo 6,Footwear,Casual,Reebok,3345,6700,113
+235,Lakme Fragrance Premium 8,Beauty,Fragrance,Lakme,841,1290,53
+236,Voltas Personal Care Series 6,Appliances,Personal Care,Voltas,15831,28880,395
+237,HarperCollins Comics Plus 7,Books,Comics,HarperCollins,436,710,244
+238,Penguin Academic Elite 3,Books,Academic,Penguin,877,1190,274
+239,Puma Sports Edge 7,Footwear,Sports,Puma,4059,7870,41
+240,Urban Ladder Living Room Max 9,Furniture,Living Room,Urban Ladder,30058,48660,463
+241,Scholastic Academic Neo 1,Books,Academic,Scholastic,1029,1270,322
+242,Zara Winter Wear Classic 9,Apparel,Winter Wear,Zara,2280,3270,236
+243,Ray-Ban Belts Classic 5,Accessories,Belts,Ray-Ban,1024,1540,209
+244,Adidas Kids Wear Ultra 9,Apparel,Kids Wear,Adidas,1936,2940,397
+245,Levi's Men's Wear Compact 5,Apparel,Men's Wear,Levi's,1147,1510,381
+246,IKEA Living Room Neo 5,Furniture,Living Room,IKEA,18772,31720,34
+247,Puma Sandals Pro 8,Footwear,Sandals,Puma,1764,3240,391
+248,Yonex Outdoor Air 5,Sports,Outdoor,Yonex,6286,8100,303
+249,Allen Solly Winter Wear Premium 2,Apparel,Winter Wear,Allen Solly,1304,1910,431
+250,Puma Belts Plus 7,Accessories,Belts,Puma,6025,12480,41
+251,Nilkamal Bedroom Classic 8,Furniture,Bedroom,Nilkamal,3481,4830,216
+252,Yonex Yoga Advanced 7,Sports,Yoga,Yonex,8678,11960,495
+253,Nivea Fragrance Plus 9,Beauty,Fragrance,Nivea,426,580,76
+254,HarperCollins Fiction Elite 8,Books,Fiction,HarperCollins,97,190,296
+255,Fastrack Bags Series 2,Accessories,Bags,Fastrack,1412,2080,30
+256,Penguin Non-Fiction Neo 5,Books,Non-Fiction,Penguin,851,1490,258
+257,Sony Tablet Plus 7,Electronics,Tablet,Sony,5840,7230,465
+258,Bosch Kitchen Appln. Advanced 1,Appliances,Kitchen Appln.,Bosch,4020,6820,455
+259,Xiaomi Audio Air 8,Electronics,Audio,Xiaomi,62010,81320,253
+260,Cosco Outdoor Essential 8,Sports,Outdoor,Cosco,6603,9210,86
+261,Ray-Ban Bags Series 7,Accessories,Bags,Ray-Ban,2262,3720,286
+262,Xiaomi Camera Smart 2,Electronics,Camera,Xiaomi,57414,78340,302
+263,Voltas Cleaning Compact 2,Appliances,Cleaning,Voltas,6884,9870,305
+264,Boat E-Reader Classic 8,Electronics,E-Reader,Boat,21377,46730,347
+265,Penguin Non-Fiction Smart 4,Books,Non-Fiction,Penguin,351,480,464
+266,Nivia Yoga Compact 6,Sports,Yoga,Nivia,2340,5000,451
+267,OnePlus Laptop Mini 7,Electronics,Laptop,OnePlus,3365,5090,205
+268,Dyson Cleaning Lite 9,Appliances,Cleaning,Dyson,4472,8810,140
+269,Puma Casual Series 3,Footwear,Casual,Puma,1018,1220,102
+270,Samsung Camera Air 7,Electronics,Camera,Samsung,5876,11590,467
+271,Titan Jewellery Lite 1,Accessories,Jewellery,Titan,2463,3280,310
+272,Borosil Appliances Essential 7,Kitchen,Appliances,Borosil,3185,5710,172
+273,Lakme Fragrance Advanced 1,Beauty,Fragrance,Lakme,826,1520,463
+274,Boat Laptop Lite 4,Electronics,Laptop,Boat,49303,69380,74
+275,Havells Cooling Ultra 9,Appliances,Cooling,Havells,8665,10350,201
+276,HarperCollins Non-Fiction Compact 7,Books,Non-Fiction,HarperCollins,974,1450,31
+277,Xiaomi Tablet Air 3,Electronics,Tablet,Xiaomi,2511,3050,256
+278,LG Personal Care X 6,Appliances,Personal Care,LG,20414,38150,440
+279,Penguin Academic Mini 9,Books,Academic,Penguin,519,910,212
+280,Reebok Casual Compact 5,Footwear,Casual,Reebok,3805,7120,268
+281,Wildcraft Jewellery Smart 8,Accessories,Jewellery,Wildcraft,3081,4310,174
+282,Titan Watch Edge 1,Accessories,Watch,Titan,6918,13740,482
+283,Xiaomi E-Reader Pro 1,Electronics,E-Reader,Xiaomi,37857,61530,468
+284,Himalaya Fragrance Ultra 2,Beauty,Fragrance,Himalaya,1574,1950,427
+285,LOreal Skincare X 6,Beauty,Skincare,LOreal,1139,1450,425
+286,Xiaomi Mobile Neo 4,Electronics,Mobile,Xiaomi,22449,41680,20
+287,Bosch Personal Care Ultra 5,Appliances,Personal Care,Bosch,19745,36670,262
+288,Fossil Bags Advanced 4,Accessories,Bags,Fossil,337,400,336
+289,Pepperfry Living Room Essential 8,Furniture,Living Room,Pepperfry,4932,9350,388
+290,Nivia Outdoor Plus 2,Sports,Outdoor,Nivia,1474,1790,448
+291,Tupperware Cutlery Pro 9,Kitchen,Cutlery,Tupperware,2745,3800,462
+292,Maybelline Skincare Max 6,Beauty,Skincare,Maybelline,1357,1600,150
+293,Woodland Sandals Neo 9,Footwear,Sandals,Woodland,5030,6260,124
+294,OnePlus Laptop Compact 8,Electronics,Laptop,OnePlus,18512,30510,181
+295,Reebok Sports Premium 7,Footwear,Sports,Reebok,6289,7700,110
+296,H&M Kids Wear Ultra 2,Apparel,Kids Wear,H&M,330,530,22
+297,Yonex Team Sports Premium 2,Sports,Team Sports,Yonex,4868,5840,436
+298,Lenovo Tablet Essential 4,Electronics,Tablet,Lenovo,64694,85090,327
+299,Mamaearth Skincare Elite 2,Beauty,Skincare,Mamaearth,209,440,27
+300,IKEA Office Plus 1,Furniture,Office,IKEA,28856,46040,164
+301,Nivia Yoga Lite 1,Sports,Yoga,Nivia,3885,6840,205
+302,Godrej Interio Living Room Series 4,Furniture,Living Room,Godrej Interio,33170,43360,329
+303,OnePlus Audio Elite 7,Electronics,Audio,OnePlus,55501,79550,183
+304,Boat Audio Edge 4,Electronics,Audio,Boat,5641,12400,375
+305,Bata Casual Plus 9,Footwear,Casual,Bata,1639,2650,381
+306,Cosco Yoga Premium 3,Sports,Yoga,Cosco,4567,9630,169
+307,SG Yoga Neo 5,Sports,Yoga,SG,4752,7130,84
+308,H&M Winter Wear Edge 5,Apparel,Winter Wear,H&M,952,2100,310
+309,Adidas Men's Wear Essential 9,Apparel,Men's Wear,Adidas,2692,4350,110
+310,Prestige Storage Edge 4,Kitchen,Storage,Prestige,2992,4110,249
+311,SG Team Sports Edge 5,Sports,Team Sports,SG,2678,5200,242
+312,Dell Audio Pro 4,Electronics,Audio,Dell,40304,63310,119
+313,Cello Appliances Edge 7,Kitchen,Appliances,Cello,770,1470,13
+314,Puma Bags Neo 1,Accessories,Bags,Puma,4284,8450,235
+315,Prestige Cutlery Pro 4,Kitchen,Cutlery,Prestige,743,1430,463
+316,Philips Kitchen Appln. Compact 4,Appliances,Kitchen Appln.,Philips,4251,9270,441
+317,Dyson Cleaning Plus 7,Appliances,Cleaning,Dyson,24112,29990,183
+318,Milton Cutlery Premium 6,Kitchen,Cutlery,Milton,3508,4910,491
+319,Penguin Comics Lite 3,Books,Comics,Penguin,673,1340,107
+320,Cello Appliances Neo 6,Kitchen,Appliances,Cello,3128,3720,135
+321,JBL Tablet Classic 9,Electronics,Tablet,JBL,14565,28590,136
+322,HP Camera Plus 9,Electronics,Camera,HP,70178,87250,117
+323,Skechers Sandals Ultra 3,Footwear,Sandals,Skechers,3347,4460,340
+324,Oxford Academic Essential 8,Books,Academic,Oxford,287,390,279
+325,Maybelline Fragrance Smart 7,Beauty,Fragrance,Maybelline,1755,2290,342
+326,Dell Television Classic 8,Electronics,Television,Dell,47513,78100,166
+327,Godrej Interio Storage Mini 6,Furniture,Storage,Godrej Interio,6518,13470,394
+328,Woodland Formal Essential 6,Footwear,Formal,Woodland,1147,2460,272
+329,Decathlon Team Sports Elite 8,Sports,Team Sports,Decathlon,3200,5360,264
+330,Titan Jewellery Pro 3,Accessories,Jewellery,Titan,3777,6790,48
+331,Fossil Bags Essential 9,Accessories,Bags,Fossil,4014,8340,151
+332,Prestige Cookware Ultra 6,Kitchen,Cookware,Prestige,276,520,110
+333,Fossil Jewellery Smart 4,Accessories,Jewellery,Fossil,9061,10670,447
+334,Penguin Academic Air 5,Books,Academic,Penguin,962,1260,216
+335,Nilkamal Living Room Essential 3,Furniture,Living Room,Nilkamal,23486,43410,380
+336,Tupperware Appliances Essential 9,Kitchen,Appliances,Tupperware,3414,4620,246
+337,Fossil Bags Classic 7,Accessories,Bags,Fossil,8473,11620,117
+338,Himalaya Fragrance Pro 6,Beauty,Fragrance,Himalaya,496,620,166
+339,Lenovo Audio Edge 4,Electronics,Audio,Lenovo,28588,39470,216
+340,Scholastic Academic Pro 1,Books,Academic,Scholastic,711,1390,497
+341,Wildcraft Sunglasses X 7,Accessories,Sunglasses,Wildcraft,2001,3300,283
+342,Nilkamal Bedroom Lite 6,Furniture,Bedroom,Nilkamal,18231,28910,468
+343,Bosch Cleaning Lite 9,Appliances,Cleaning,Bosch,7205,9230,318
+344,Nivea Skincare Classic 2,Beauty,Skincare,Nivea,1934,3200,115
+345,Cello Cutlery Essential 2,Kitchen,Cutlery,Cello,1727,2890,15
+346,Pantaloons Kids Wear Series 7,Apparel,Kids Wear,Pantaloons,554,1120,284
+347,IKEA Storage X 4,Furniture,Storage,IKEA,3923,7370,231
+348,Himalaya Haircare Air 4,Beauty,Haircare,Himalaya,1325,1830,151
+349,Tupperware Cookware Elite 2,Kitchen,Cookware,Tupperware,3460,5000,136
+350,Bloomsbury Academic Advanced 8,Books,Academic,Bloomsbury,359,770,56

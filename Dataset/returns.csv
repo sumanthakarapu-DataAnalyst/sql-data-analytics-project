@@ -1,0 +1,286 @@
+return_id,order_id,product_id,return_date,reason
+1,1003,265,2024-08-08,Defective product
+2,1006,218,2022-09-20,Changed mind
+3,1017,206,2023-10-01,Better price elsewhere
+4,1027,191,2024-10-28,Wrong size
+5,1030,297,2023-10-29,Wrong size
+6,1031,255,2024-07-26,Wrong size
+7,1040,345,2022-02-02,Wrong item delivered
+8,1044,154,2024-07-26,Late delivery
+9,1049,214,2024-08-06,Changed mind
+10,1052,126,2024-03-31,Better price elsewhere
+11,1078,236,2022-05-08,Wrong size
+12,1093,125,2025-01-09,Not as described
+13,1100,203,2023-04-09,Not as described
+14,1110,328,2024-03-28,Damaged in transit
+15,1117,191,2024-01-14,Defective product
+16,1124,316,2024-10-05,Damaged in transit
+17,1128,129,2023-03-13,Late delivery
+18,1138,173,2024-01-23,Better price elsewhere
+19,1139,298,2023-06-26,Damaged in transit
+20,1152,242,2022-11-20,Late delivery
+21,1160,171,2022-01-27,Wrong size
+22,1186,185,2024-06-09,Wrong size
+23,1188,208,2024-06-02,Changed mind
+24,1193,207,2024-06-06,Wrong size
+25,1219,315,2023-08-12,Defective product
+26,1223,280,2024-09-23,Changed mind
+27,1234,139,2022-04-10,Damaged in transit
+28,1242,172,2024-11-02,Defective product
+29,1247,322,2024-05-03,Better price elsewhere
+30,1272,116,2023-03-06,Changed mind
+31,1278,316,2024-03-04,Late delivery
+32,1301,119,2022-03-22,Damaged in transit
+33,1302,190,2024-06-13,Not as described
+34,1308,120,2022-12-12,Wrong size
+35,1321,273,2022-08-04,Damaged in transit
+36,1321,289,2022-07-29,Changed mind
+37,1337,229,2022-07-25,Wrong size
+38,1341,323,2022-04-21,Better price elsewhere
+39,1349,350,2022-01-20,Late delivery
+40,1350,241,2022-03-21,Not as described
+41,1356,193,2023-08-17,Wrong item delivered
+42,1359,288,2024-06-18,Damaged in transit
+43,1370,172,2024-03-09,Quality issue
+44,1387,226,2022-06-22,Wrong item delivered
+45,1398,232,2023-07-30,Wrong item delivered
+46,1411,167,2024-01-09,Not as described
+47,1413,141,2023-05-02,Changed mind
+48,1415,340,2024-01-08,Quality issue
+49,1416,258,2024-08-03,Wrong item delivered
+50,1420,101,2022-08-23,Better price elsewhere
+51,1425,302,2022-01-30,Damaged in transit
+52,1426,118,2024-12-22,Wrong item delivered
+53,1434,123,2024-04-07,Defective product
+54,1438,244,2023-01-29,Better price elsewhere
+55,1439,315,2025-01-03,Better price elsewhere
+56,1443,215,2023-08-29,Damaged in transit
+57,1458,253,2024-02-07,Not as described
+58,1461,257,2024-01-16,Damaged in transit
+59,1474,200,2022-10-13,Damaged in transit
+60,1492,117,2022-03-19,Quality issue
+61,1504,146,2023-05-31,Late delivery
+62,1521,135,2025-01-10,Changed mind
+63,1525,322,2023-07-10,Defective product
+64,1578,209,2022-09-02,Wrong size
+65,1588,230,2023-05-03,Better price elsewhere
+66,1591,188,2022-08-24,Wrong size
+67,1603,110,2022-05-23,Late delivery
+68,1617,282,2022-02-15,Changed mind
+69,1638,124,2023-01-27,Defective product
+70,1645,101,2023-08-04,Changed mind
+71,1661,301,2024-09-05,Quality issue
+72,1665,324,2023-07-30,Late delivery
+73,1670,282,2023-01-05,Damaged in transit
+74,1682,214,2023-03-15,Not as described
+75,1691,145,2023-05-31,Better price elsewhere
+76,1693,180,2024-11-13,Quality issue
+77,1732,121,2023-02-04,Wrong size
+78,1733,169,2023-05-29,Better price elsewhere
+79,1747,345,2024-10-12,Better price elsewhere
+80,1747,219,2024-10-09,Wrong size
+81,1771,280,2022-09-04,Damaged in transit
+82,1782,322,2022-12-20,Quality issue
+83,1782,337,2022-12-26,Defective product
+84,1807,293,2024-07-12,Wrong size
+85,1816,126,2022-11-01,Not as described
+86,1818,119,2022-02-24,Better price elsewhere
+87,1822,302,2024-10-13,Wrong item delivered
+88,1834,113,2024-06-22,Wrong item delivered
+89,1836,133,2022-07-16,Wrong item delivered
+90,1870,324,2024-05-21,Damaged in transit
+91,1890,323,2022-06-24,Wrong size
+92,1905,170,2024-12-18,Defective product
+93,1912,118,2024-06-22,Damaged in transit
+94,1914,258,2023-06-14,Damaged in transit
+95,1919,334,2022-09-17,Changed mind
+96,1942,204,2023-05-20,Quality issue
+97,1942,164,2023-05-30,Quality issue
+98,1965,279,2024-01-01,Wrong item delivered
+99,1985,166,2023-08-18,Not as described
+100,2015,238,2023-11-02,Better price elsewhere
+101,2019,101,2024-03-18,Not as described
+102,2022,132,2023-01-09,Late delivery
+103,2024,164,2023-04-29,Damaged in transit
+104,2031,102,2023-03-03,Wrong item delivered
+105,2033,315,2024-03-10,Damaged in transit
+106,2045,275,2024-02-28,Late delivery
+107,2047,324,2022-03-01,Damaged in transit
+108,2048,200,2023-12-08,Better price elsewhere
+109,2050,143,2023-02-15,Late delivery
+110,2050,147,2023-02-17,Damaged in transit
+111,2059,232,2023-12-10,Late delivery
+112,2068,337,2022-07-15,Quality issue
+113,2121,168,2024-01-21,Defective product
+114,2166,172,2022-10-21,Not as described
+115,2182,111,2024-03-15,Wrong size
+116,2184,110,2022-04-04,Better price elsewhere
+117,2186,322,2023-11-29,Not as described
+118,2204,323,2022-09-13,Wrong size
+119,2222,328,2024-11-30,Wrong item delivered
+120,2243,206,2024-03-01,Damaged in transit
+121,2273,331,2022-08-23,Late delivery
+122,2274,342,2022-05-31,Changed mind
+123,2299,316,2023-06-24,Better price elsewhere
+124,2351,291,2023-06-20,Not as described
+125,2353,328,2023-07-25,Better price elsewhere
+126,2354,193,2023-09-30,Wrong item delivered
+127,2367,193,2022-07-15,Damaged in transit
+128,2371,244,2022-05-27,Changed mind
+129,2379,226,2022-10-24,Damaged in transit
+130,2380,105,2024-04-28,Damaged in transit
+131,2406,223,2023-11-07,Wrong item delivered
+132,2406,155,2023-11-04,Changed mind
+133,2430,119,2025-01-13,Late delivery
+134,2468,332,2022-11-08,Better price elsewhere
+135,2499,159,2022-10-07,Wrong item delivered
+136,2502,305,2024-12-27,Changed mind
+137,2514,124,2022-09-16,Better price elsewhere
+138,2524,234,2024-06-22,Defective product
+139,2529,257,2023-01-07,Wrong item delivered
+140,2533,332,2023-05-31,Not as described
+141,2543,117,2024-08-05,Quality issue
+142,2554,235,2023-12-24,Wrong size
+143,2554,292,2023-12-18,Wrong size
+144,2561,112,2022-11-14,Changed mind
+145,2570,106,2024-12-09,Better price elsewhere
+146,2579,131,2022-12-29,Defective product
+147,2581,166,2022-06-29,Changed mind
+148,2588,242,2023-03-15,Wrong size
+149,2602,282,2022-07-13,Defective product
+150,2610,174,2024-06-12,Better price elsewhere
+151,2630,102,2024-04-26,Defective product
+152,2632,334,2022-12-17,Not as described
+153,2639,161,2024-09-26,Wrong size
+154,2648,253,2024-12-20,Wrong item delivered
+155,2657,225,2024-05-31,Wrong item delivered
+156,2663,202,2024-03-13,Wrong item delivered
+157,2666,214,2024-11-26,Wrong size
+158,2678,285,2024-06-25,Defective product
+159,2678,290,2024-06-27,Wrong size
+160,2689,292,2023-06-09,Defective product
+161,2692,254,2023-05-28,Changed mind
+162,2697,138,2024-08-19,Late delivery
+163,2706,219,2024-05-19,Wrong item delivered
+164,2713,162,2023-02-12,Wrong item delivered
+165,2716,284,2023-08-23,Not as described
+166,2718,167,2023-11-20,Late delivery
+167,2727,266,2022-10-24,Quality issue
+168,2737,138,2022-08-11,Late delivery
+169,2743,195,2022-08-29,Changed mind
+170,2748,178,2024-06-20,Better price elsewhere
+171,2759,321,2023-07-15,Quality issue
+172,2760,284,2022-12-24,Changed mind
+173,2762,206,2025-01-03,Damaged in transit
+174,2768,188,2022-09-07,Better price elsewhere
+175,2772,146,2022-03-10,Quality issue
+176,2790,304,2022-08-29,Late delivery
+177,2805,242,2022-12-14,Quality issue
+178,2812,102,2024-09-03,Damaged in transit
+179,2821,206,2023-07-07,Defective product
+180,2822,307,2022-10-19,Defective product
+181,2823,319,2024-09-14,Not as described
+182,2841,106,2023-01-16,Wrong item delivered
+183,2847,278,2024-10-14,Late delivery
+184,2865,324,2024-03-08,Not as described
+185,2865,238,2024-03-08,Quality issue
+186,2871,210,2023-08-15,Better price elsewhere
+187,2877,269,2024-05-29,Better price elsewhere
+188,2901,195,2023-04-17,Changed mind
+189,2905,324,2024-02-20,Wrong size
+190,2908,179,2025-01-01,Defective product
+191,2911,194,2023-05-17,Wrong item delivered
+192,2922,215,2023-07-03,Defective product
+193,2924,172,2024-11-14,Changed mind
+194,2928,230,2024-09-08,Damaged in transit
+195,2931,284,2022-10-20,Damaged in transit
+196,2950,304,2022-04-03,Quality issue
+197,2952,157,2023-09-26,Not as described
+198,2976,164,2023-12-27,Wrong item delivered
+199,2996,349,2024-03-06,Better price elsewhere
+200,3021,258,2023-03-07,Better price elsewhere
+201,3025,309,2024-05-18,Defective product
+202,3036,322,2024-02-02,Damaged in transit
+203,3036,289,2024-02-06,Quality issue
+204,3040,341,2024-06-30,Wrong item delivered
+205,3056,304,2024-08-26,Wrong item delivered
+206,3068,205,2023-07-15,Better price elsewhere
+207,3075,240,2023-08-17,Quality issue
+208,3089,254,2023-02-20,Quality issue
+209,3108,330,2022-11-26,Wrong item delivered
+210,3120,342,2024-06-15,Wrong item delivered
+211,3121,303,2023-12-19,Quality issue
+212,3122,120,2024-02-22,Defective product
+213,3171,169,2024-06-12,Quality issue
+214,3204,110,2022-05-25,Better price elsewhere
+215,3209,228,2024-08-03,Quality issue
+216,3209,166,2024-08-05,Not as described
+217,3218,137,2023-11-07,Late delivery
+218,3227,154,2023-07-23,Better price elsewhere
+219,3256,231,2022-03-02,Not as described
+220,3296,185,2022-03-24,Late delivery
+221,3302,245,2024-05-08,Quality issue
+222,3305,161,2024-01-13,Better price elsewhere
+223,3322,220,2022-05-07,Better price elsewhere
+224,3326,176,2023-11-01,Wrong item delivered
+225,3334,257,2024-08-21,Not as described
+226,3336,106,2023-05-03,Wrong size
+227,3373,138,2024-08-15,Quality issue
+228,3392,291,2024-12-15,Late delivery
+229,3415,197,2024-05-16,Changed mind
+230,3416,175,2023-12-31,Better price elsewhere
+231,3455,179,2023-08-22,Wrong size
+232,3478,270,2024-09-16,Quality issue
+233,3478,109,2024-09-25,Defective product
+234,3488,243,2022-10-28,Wrong item delivered
+235,3498,306,2022-02-26,Not as described
+236,3499,227,2022-03-17,Changed mind
+237,3506,308,2022-04-19,Late delivery
+238,3507,319,2024-05-28,Quality issue
+239,3533,137,2022-07-31,Better price elsewhere
+240,3533,308,2022-08-12,Late delivery
+241,3555,301,2024-09-26,Defective product
+242,3560,118,2024-03-30,Wrong item delivered
+243,3560,234,2024-03-25,Wrong size
+244,3576,269,2023-05-02,Damaged in transit
+245,3584,110,2022-04-12,Not as described
+246,3613,285,2022-09-20,Quality issue
+247,3630,339,2024-08-18,Defective product
+248,3645,174,2023-04-27,Defective product
+249,3657,254,2022-07-28,Better price elsewhere
+250,3691,330,2022-05-01,Defective product
+251,3695,280,2022-12-08,Wrong size
+252,3705,129,2022-07-15,Late delivery
+253,3712,318,2022-03-01,Damaged in transit
+254,3716,305,2023-02-22,Wrong item delivered
+255,3729,221,2023-05-05,Defective product
+256,3734,189,2024-03-19,Damaged in transit
+257,3735,293,2024-06-07,Wrong size
+258,3746,106,2023-09-28,Not as described
+259,3756,114,2023-05-08,Damaged in transit
+260,3756,151,2023-05-10,Damaged in transit
+261,3760,232,2023-06-30,Quality issue
+262,3770,149,2023-09-24,Changed mind
+263,3797,330,2023-02-27,Changed mind
+264,3815,109,2024-10-18,Quality issue
+265,3819,216,2023-01-16,Quality issue
+266,3820,104,2024-09-24,Late delivery
+267,3825,316,2023-11-20,Changed mind
+268,3830,263,2023-12-30,Defective product
+269,3831,189,2023-01-10,Wrong item delivered
+270,3835,131,2023-07-19,Wrong size
+271,3865,307,2022-01-23,Damaged in transit
+272,3866,226,2023-09-06,Late delivery
+273,3876,244,2022-10-06,Defective product
+274,3883,122,2025-01-02,Better price elsewhere
+275,3885,287,2023-07-26,Defective product
+276,3890,206,2024-04-08,Quality issue
+277,3901,111,2024-02-15,Better price elsewhere
+278,3904,173,2024-12-15,Wrong item delivered
+279,3921,288,2023-03-31,Not as described
+280,3921,302,2023-03-31,Wrong size
+281,3954,274,2024-11-06,Not as described
+282,3958,153,2024-08-25,Wrong size
+283,3961,225,2023-05-19,Late delivery
+284,3967,118,2022-08-04,Late delivery
+285,3992,347,2024-08-12,Wrong item delivered
