@@ -1,7 +1,7 @@
 # SQL Data Analytics Project
 
 ## Project Overview
-This project analyzes an e-commerce dataset using SQL.
+This project analyzes an E-commerce dataset using SQL.
 
 ## Business Problems Solved
 
